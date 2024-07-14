@@ -11,7 +11,7 @@ This repository contains custom scripts for enhancing your FiveM GTA roleplay se
 
 ## Add the Resources to your Config file
 
-start club_safe
+# start club_safe
 start club_security
 start club_commands
 start hybrid_drug_lab
