@@ -6,7 +6,7 @@ This repository contains custom scripts for enhancing your FiveM GTA roleplay se
 
 1. Clone this repository to your FiveM server resources directory:
    ```bash
-   git clone https://github.com/your-repo/fivem-custom-scripts.git
+   git clone https://github.com/J1BAnalytics/GTA-RP-.git
 
 
 ## Add the Resources to your Config file
