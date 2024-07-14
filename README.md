@@ -1,6 +1,6 @@
 # FiveM Custom Scripts Repository
 
-This repository contains custom scripts for enhancing your FiveM GTA roleplay server. The scripts include features for a strip club with safes, a hybrid drug lab, gang outfit variants, an enhanced vehicle spotlight accessory, modern EMS uniforms, and advanced MLOs.
+This repository contains custom scripts for enhancing your FiveM GTA roleplay server. The scripts include features for a club with safes, a hybrid drug lab, gang outfit variants, an enhanced vehicle spotlight accessory, modern EMS uniforms, and advanced MLOs.
 
 ## Installation
 
@@ -38,12 +38,12 @@ Features:
 Enhanced Security Monitoring: Continuously monitors the status of the enhanced safe, providing real-time notifications of any security breaches or unauthorized access attempts.
 Usage:
 Monitor Security: Automatically monitored; no commands required.
+
 Club Commands
 Features:
 Interactive Commands: Allows players to interact with the safes using simple commands to store and retrieve money.
 User Feedback: Provides clear feedback to players about the status of their transactions.
 Usage:
-
 Store Money: /storeMoney [basic/enhanced] [amount]
 Retrieve Money: /retrieveMoney [basic/enhanced] [amount]
 
